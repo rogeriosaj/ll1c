@@ -29,5 +29,5 @@ F=(E) | F=id
 # Entrada
 
 ```sh
-(i+i)*i$
+(id+id)*id$
 ```
